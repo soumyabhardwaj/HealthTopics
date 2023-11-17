@@ -33,3 +33,8 @@ UI: SwiftUI is used for creating the user interface programmatically.
 # Challenges Faced
 API Response Handling: Ensuring proper handling of asynchronous API responses 
 The response from the API was nested so I struggled a little bit while making the model
+
+
+# video
+![C0D8CD9D-FFA8-417B-8667-0AEF46E1D822_1_102_a](https://github.com/soumyabhardwaj/HealthTopics/assets/63638319/18f60113-2060-4cfa-9d6a-af8aeaae7047)
+
