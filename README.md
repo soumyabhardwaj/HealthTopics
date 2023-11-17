@@ -36,5 +36,4 @@ The response from the API was nested so I struggled a little bit while making th
 
 
 # video
-![C0D8CD9D-FFA8-417B-8667-0AEF46E1D822_1_102_a](https://github.com/soumyabhardwaj/HealthTopics/assets/63638319/18f60113-2060-4cfa-9d6a-af8aeaae7047)
-
+https://drive.google.com/file/d/1Dw2O_mpIIqmW87dWityWVqKTidme9I5S/view?usp=drivesdk
