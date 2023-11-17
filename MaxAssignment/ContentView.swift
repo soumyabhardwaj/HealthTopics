@@ -1,21 +1,12 @@
-//
-//  ContentView.swift
-//  MaxAssignment
-//
-//  Created by soumya bhardwaj on 16/11/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    @ObservedObject var viewModel = TopicViewModel()
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        NavigationView {
+            TopicsListView(viewModel: viewModel)
         }
-        .padding()
     }
 }
 
@@ -24,3 +15,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
